@@ -7,7 +7,7 @@ print ("++                                                                    ++
 print ("++                                                                    ++")
 print ("++                                                                    ++")
 print ("++                 Welcome to this learning spot!                     ++")
-print ("++                 Be possitive in your comments                      ++")
+print ("++                  Be positive in your comments                      ++")
 print ("++                            #BeLight                                ++")
 print ("++                                                                    ++")
 print ("++                                                                    ++")
